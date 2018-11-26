@@ -1,1 +1,0 @@
-# Bibliography about Traditional Planning Method
