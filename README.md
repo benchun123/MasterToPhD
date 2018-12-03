@@ -14,7 +14,7 @@
 * Internship 	[Autonomous Robotics Motion Planning]
 * Survey 		[Autonomous Driving Framework Using Traditional Method](https://github.com/benchun123/phd/blob/master/P6_Autonomous%20Driving%20%20Framework%20Using%20Traditional%20Method.pdf)
 
-* Comparison 	[Difference about Robotics UAV and Vehicles]
+* Comparison 	[Difference about Robotics UAV and Vehicles](https://github.com/benchun123/phd/blob/master/P7_Difference%20between%20Robot%20UAV%20and%20Vehicles.pdf)
 
 # Bibliography
 
