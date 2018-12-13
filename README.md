@@ -26,4 +26,4 @@
 * [Bibliography about Traditional Planning Method]
 
 # Other biblography
-* [Key Papers in Deep RL from OpenAI]
+* [Key Papers in Deep RL from OpenAI](https://github.com/benchun123/phd/blob/master/Key%20Papers%20in%20Deep%20RL%20from%20OpenAI.rst#a-model-is-learned)
