@@ -25,3 +25,5 @@
 * [Bibliography about Deep Reinforcement Learning](https://github.com/benchun123/phd/blob/master/Bibliography%20about%20Deep%20Reinforcement%20Learning.md)
 * [Bibliography about Traditional Planning Method]
 
+# Other biblography
+* [Key Papers in Deep RL from OpenAI]
