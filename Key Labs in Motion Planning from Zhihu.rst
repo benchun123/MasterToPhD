@@ -15,11 +15,11 @@ Comes from https://zhuanlan.zhihu.com/p/51689451
 a. MIT
 ------------------
 
-.. [#] **ACL** `Aerospace Control Lab <http://acl.mit.edu/>` 
+.. [#] **ACL** `Aerospace Control Lab <http://acl.mit.edu/>`_ 
 
-.. [#] **CSAIL** `Computer Science and Artificial Intelligence Laboratory <https://www.csail.mit.edu/>` 
+.. [#] **CSAIL** `Computer Science and Artificial Intelligence Laboratory <https://www.csail.mit.edu/>`_ 
 
-.. [#] **** `Robust Robotics Group <https://groups.csail.mit.edu/rrg/>` 
+.. [#] **** `Robust Robotics Group <https://groups.csail.mit.edu/rrg/>`_ 
 
 .. [#] **** `Learning and Intelligent Systems Group <http://lis.csail.mit.edu/new/>` 
 
@@ -57,7 +57,7 @@ b. CMU
 
 .. [#] **** `The Robotics Institute <https://www.ri.cmu.edu/>` 
 
-b. CMU
+b. Stanford 
 ------------------
 
 .. [#] **SISL** `Stanford Intelligent Systems Laboratory <http://sisl.stanford.edu/>` 

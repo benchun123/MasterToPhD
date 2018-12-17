@@ -3,8 +3,8 @@ Materials about Autonomous Driving
 ==================================
 
 What follows is a list of papers in Autonomous Driving that are worth reading. This is *far* from comprehensive, but should provide a useful starting point for someone looking to do research in the field.
-
 Comes from https://zhuanlan.zhihu.com/p/27686577
+
 .. contents:: Table of Contents
     :depth: 2
 
