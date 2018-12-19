@@ -12,7 +12,7 @@
 * **`Survey`**		  [Application of End-to-end Learning Method](https://github.com/benchun123/phd/blob/master/P3_Application%20of%20End-to-End%20Learning.pdf)
 
 ## Traditional Method on Autonomous System
-* **`Project`** 	  [Multi UAV Navigation]
+* **`Project`** 	  [Self-driving Car based on Model Predictive Control]()
 * **`Internship`** 	  [Autonomous Robotics Motion Planning]
 * **`Survey`** 		  [Autonomous Driving Framework Using Traditional Method](https://github.com/benchun123/phd/blob/master/P6_Autonomous%20Driving%20%20Framework%20Using%20Traditional%20Method.pdf)
 * **`Review`** 		  [A Review of Motion Planning Techniques]()
@@ -22,6 +22,7 @@
 ## Control
 * **`Optimal Control`**  [Generalized Optimal Guidance Law with a Terminal Intercept Angle]()
 * **`Terminal Sliding Model`** 		  [An Improved Nonsingular Fast Terminal Sliding Mode Guidance Law with Impact Angle Constraints]()
+* **`Model Predictive Model`** 		  [Self-driving Car based on Model Predictive Control]()
 
 
 # Bibliography

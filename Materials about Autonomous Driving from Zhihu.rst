@@ -20,7 +20,7 @@ a. Course
 
 .. [#] **University of Toronto** `CSC2541 Visual Perception for Autonomous Driving <hhttp://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html>`_
 
-.. [#] **INRIA** ` Mobile Robots and Autonomous Vehicles<https://www.fun-mooc.fr/courses/inria/41005S02/session02/about?utm_source=mooc-list>`_
+.. [#] **INRIA** ` Mobile Robots and Autonomous Vehicles <https://www.fun-mooc.fr/courses/inria/41005S02/session02/about?utm_source=mooc-list>`_
 
 .. [#] **Universty of Glasgow** `ENG5017 Autonomous Vehicle Guidance Systems <https://www.gla.ac.uk/coursecatalogue/course/?code=ENG5017>`_
 
@@ -88,7 +88,7 @@ b. Navigation and Planning
 
 .. [#] **2015** `A Framework for Applying Point Clouds Grabbed by Multi-Beam LIDAR in Perceiving the Driving Environment <https://www.semanticscholar.org/paper/A-Framework-for-Applying-Point-Clouds-Grabbed-by-in-Liu-Liang/907189aacae7bff389d6c6592d6e2586dab5168d>`_
 
-.. [#] **2015** `How Much of Driving Is Preattentive <https://www.semanticscholar.org/paper/How-much-of-driving-is-pre-attentive-Pugeault-Bowden/bb9686ea6f154a64fbdc3551fe223da42663baa9>` 
+.. [#] **2015** `How Much of Driving Is Preattentive <https://www.semanticscholar.org/paper/How-much-of-driving-is-pre-attentive-Pugeault-Bowden/bb9686ea6f154a64fbdc3551fe223da42663baa9>`_
 
 .. [#] **2015** `Map-building and Planning for Autonomous Navigation of a Mobile Robot <https://www.semanticscholar.org/paper/Map-building-and-planning-for-autonomous-navigation-G%C3%B3mez/fc5b5b96334d2a0d12ac2d69fa6d46640897f33e>`_
 
