@@ -20,9 +20,9 @@
 * **`Comparison`** 	  [Difference about Robotics UAV and Vehicles](https://github.com/benchun123/phd/blob/master/P8_Difference%20between%20Robot%20UAV%20and%20Vehicles.pdf)
 
 ## Control
-* **`Optimal Control`**  [Generalized Optimal Guidance Law with a Terminal Intercept Angle]()
-* **`Terminal Sliding Model`** 		  [An Improved Nonsingular Fast Terminal Sliding Mode Guidance Law with Impact Angle Constraints]()
-* **`Model Predictive Model`** 		  [Self-driving Car based on Model Predictive Control]()
+* **`Optimal Control`**  [Generalized Optimal Guidance Law with a Terminal Intercept Angle](https://github.com/benchun123/phd/blob/master/O1_Generalized%20Optimal%20Guidance%20Law%20with%20a%20Terminal%20Intercept%20Angle.pdf)
+* **`Terminal Sliding Model`** 		  [Nonsingular Fast Terminal Sliding Mode Guidance Law with Impact Angle Constraints](https://github.com/benchun123/phd/blob/master/O2_An%2BImproved%2BNonsingular%2BFast%2BTerminal...Benchun%20Zhou.pdf)
+* **`Model Predictive Control`** 		  [Self-driving Car based on Model Predictive Control](https://github.com/benchun123/phd/blob/master/P4_Self-driving%20Car%20based%20on%20Model%20Predictive%20Control.pdf)
 
 
 # Bibliography
