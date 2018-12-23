@@ -4,7 +4,7 @@
 *   Robotics Motion Planning
 *   UAV Navigation
 
-# Project
+# Project in CV
 
 ## End-to-end learning on Autonomous System
 * **`Master Thesis`** [Autonomous Navigation of UAV Using Deep Reinforcement Learning](https://github.com/benchun123/phd/blob/master/P1_Autonomous%20Navigation%20Using%20Deep%20Reinforcement%20Learning.pdf)
@@ -12,8 +12,8 @@
 * **`Survey`**		  [Application of End-to-end Learning Method](https://github.com/benchun123/phd/blob/master/P3_Application%20of%20End-to-End%20Learning.pdf)
 
 ## Traditional Method on Autonomous System
+* **`Internship`** 	  [Autonomous Robotics Motion Planning](https://github.com/benchun123/phd/blob/master/P5_Autonomous%20Robotics%20Motion%20Planning.pdf)
 * **`Project`** 	  [Self-driving Car based on Model Predictive Control](https://github.com/benchun123/phd/blob/master/P4_Self-driving%20Car%20based%20on%20Model%20Predictive%20Control.pdf)
-* **`Internship`** 	  [Autonomous Robotics Motion Planning]
 * **`Survey`** 		  [Autonomous Driving Framework Using Traditional Method](https://github.com/benchun123/phd/blob/master/P6_Autonomous%20Driving%20%20Framework%20Using%20Traditional%20Method.pdf)
 * **`Review`** 		  [A Review of Motion Planning Techniques](https://github.com/benchun123/phd/blob/master/P7_A%20Review%20of%20Motion%20Planning%20Techniques.pdf)
 
