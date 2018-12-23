@@ -12,8 +12,8 @@
 * **`Survey`**		  [Application of End-to-end Learning Method](https://github.com/benchun123/phd/blob/master/P3_Application%20of%20End-to-End%20Learning.pdf)
 
 ## Traditional Method on Autonomous System
-* **`Internship`** 	  [Autonomous Robotics Motion Planning](https://github.com/benchun123/phd/blob/master/P5_Autonomous%20Robotics%20Motion%20Planning.pdf)
-* **`Project`** 	  [Self-driving Car based on Model Predictive Control](https://github.com/benchun123/phd/blob/master/P4_Self-driving%20Car%20based%20on%20Model%20Predictive%20Control.pdf)
+* **`Internship`** 	  [Autonomous Robotics Motion Planning](https://github.com/benchun123/phd/blob/master/P4_Autonomous%20Robotics%20Motion%20Planning.pdf)
+* **`Project`** 	  [Self-driving Car based on Model Predictive Control](https://github.com/benchun123/phd/blob/master/P5_Self-driving%20Car%20based%20on%20Model%20Predictive%20Control.pdf)
 * **`Survey`** 		  [Autonomous Driving Framework Using Traditional Method](https://github.com/benchun123/phd/blob/master/P6_Autonomous%20Driving%20%20Framework%20Using%20Traditional%20Method.pdf)
 * **`Review`** 		  [A Review of Motion Planning Techniques](https://github.com/benchun123/phd/blob/master/P7_A%20Review%20of%20Motion%20Planning%20Techniques.pdf)
 
@@ -22,8 +22,7 @@
 ## Control
 * **`Optimal Control`**  [Generalized Optimal Guidance Law with a Terminal Intercept Angle](https://github.com/benchun123/phd/blob/master/O1_Generalized%20Optimal%20Guidance%20Law%20with%20a%20Terminal%20Intercept%20Angle.pdf)
 * **`Terminal Sliding Model`** 		  [Nonsingular Fast Terminal Sliding Mode Guidance Law with Impact Angle Constraints](https://github.com/benchun123/phd/blob/master/O2_An%2BImproved%2BNonsingular%2BFast%2BTerminal...Benchun%20Zhou.pdf)
-* **`Model Predictive Control`** 		  [Self-driving Car based on Model Predictive Control](https://github.com/benchun123/phd/blob/master/P4_Self-driving%20Car%20based%20on%20Model%20Predictive%20Control.pdf)
-
+* **`Model Predictive Control`** 		  [Self-driving Car based on Model Predictive Control](https://github.com/benchun123/phd/blob/master/P5_Self-driving%20Car%20based%20on%20Model%20Predictive%20Control.pdf)
 
 # Bibliography
 
