@@ -1,3 +1,6 @@
+# Introduction
+
+Welcome! My name is Benchun Zhou, I am going to show you some researches and projects during my graduate studies, if you want to know more details of these projects, please click the external link to see the PDFs, or contact me. I really appreciate your visit and suggestions, I hope you can get what you want. 
 
 # Research Interests
 
@@ -66,7 +69,7 @@ Motion planning breaks down a desired movement task into discrete motions that s
 <div align=center><img src="./README_Picture/P7_Motion_Planning.png"/></div>
 
 ## 3. Projects in real world
-### 3.1 `Car Competition`  [National Intelligent Car Contest for College Students](https://github.com/benchun123/phd/blob/master/O1_Freescale%20Cup%20National%20Undergraduate%20Smart%20Car%20Competition.pdf)
+### 3.1 `Car Competition`  [National Intelligent Car Contest for College Students](https://github.com/benchun123/phd/blob/master/O1_National%20Intelligent%20Car%20Contest%20for%20College%20Students.pdf)
 
 In the background of the 10th National Intelligent Car Contest for College Students, this article introduces the software and hardware structures and the development flow of the vehicle control system. This contest adopting A-type car model prescribed by the contest organization committee, using the 32-bit MCU K60 produced by Freescale Semiconductor Company as the core controller, requires the car finish the race in the fastest speed. The whole system includes the aspects of the mechanism structure adjustment, the sensor circuit design and signal process, control algorithm and strategy optimization etc. It captures the road information through resonant circuit, then abstracts the road position. After that, PD feedback control is used on the steering. At the same time, the system obtains the current speed using a speed sensor, so that it can realize the feedback control of the speed by PID method.
 
