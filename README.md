@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome! My name is Benchun Zhou, I am going to show you some researches and projects during my graduate studies, if you want to know more details of these projects, please click the external link to see the PDFs, or contact me. I really appreciate your visit and suggestions, I hope you can get what you want. 
+Welcome! My name is Benchun Zhou, I am going to show you some researches and projects during my graduate studies, if you want to know more details of these projects, please click the external link to see the PDFs, or contact me (benchunzhou@gmail.com or benchun123@buaa.edu.cn). I really appreciate your visit and suggestions, I hope you can get what you want. 
 
 # Research Interests
 
